@@ -2,14 +2,19 @@
 
 ## Tech Stack
 - C# / .NET
-- Docker
+- C++
 - Cybersecurity
 
 
-  ## UI/UX Design
+## UI/UX Design
 📸 Instagram: [@plkutak](https://instagram.com/plkutak)
 
 
 
+
+
+
+
 ## Contact
-📧 Email: [hasandurakovic45@email.com](mailto:hasan@email.com)
+📧 Email: [hasandurakovic45@email.com](mailto:hasandurakovic45@email.com)
+)
