@@ -1,12 +1,15 @@
 # Hasan Durakovic
 
-## UI/UX Design
-📸 Instagram: [@plkutak](https://instagram.com/plkutak)
-
 ## Tech Stack
 - C# / .NET
 - Docker
 - Cybersecurity
 
+
+  ## UI/UX Design
+📸 Instagram: [@plkutak](https://instagram.com/plkutak)
+
+
+
 ## Contact
-📧 Email: [hasan@email.com](mailto:hasan@email.com)
+📧 Email: [hasandurakovic45@email.com](mailto:hasan@email.com)
