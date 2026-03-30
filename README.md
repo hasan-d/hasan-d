@@ -6,8 +6,8 @@ I'm an humble and ambitious programmer from Bosnia and Herzegovina with a HUGE i
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-durakovic-25a92b3b2) <br>
-Also check out best domestic fantasy football at plkutak.com <br><br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-durakovic-25a92b3b2) <br><br><br><br>
+Also check out best domestic fantasy football at plkutak.com <br>
 plkutak socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/plkutak) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plkutak) 
